@@ -1,0 +1,3 @@
+CONVERT RESULT SUCCESS:0
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+[WARNING] LITE(34032,?):2026-6-16 21:28:30 [mindspore\lite\tools\converter\legacy_optimizer\graph\infershape_pass.cc:141] Run] One dimension of the input shape is 0, which would be set to -1 as a default value.
