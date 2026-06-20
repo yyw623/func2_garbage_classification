@@ -1,0 +1,2 @@
+# func2_garbage_classification
+func2_garbage_classification_Mindspore_inhand-main 
